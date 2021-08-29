@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on **Smart Touchless Control with Millimeter-Wave Radar Sensor & Artificial Intelligence**
+
+Some of my past projects:
+- Try-it-on (AR facial accessory attachment filter)
+- Fradulent Job Posting (Data Science problem)
+- Scarlet Mansion (3D Detective Unity Game)
+- Happy Pals
+
+
 <!--
 **leephilipx/leephilipx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
