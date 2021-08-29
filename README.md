@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+<br>
+
 🔭 I’m currently working on **Smart Touchless Control with Millimeter-Wave Radar Sensor & Artificial Intelligence**
 
+<br>
+
 Some of my past projects:
-- Try-it-on (AR facial accessory attachment filter)
-- Fradulent Job Posting (Data Science problem)
-- Scarlet Mansion (3D Detective Unity Game)
-- Happy Pals
+- [Try-it-on](https://github.com/leephilipx/AR-Filter-Shopee) (AR Facial Accessory Attachment Filter)
+- [Fradulent Job Posting](https://github.com/leephilipx/Fraudulent-Job-Postings) (Data Science Problem)
+- [Scarlet Mansion](https://github.com/leephilipx/scarletmansion) (3D Detective Unity Game)
+- [Happy Pals][https://github.com/leephilipx/Happy-Pals] (Mental Health PHP Web Application)
 
 
 <!--
