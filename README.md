@@ -10,7 +10,7 @@ Some of my past projects:
 - [Try-it-on](https://github.com/leephilipx/AR-Filter-Shopee) (AR Facial Accessory Attachment Filter)
 - [Fradulent Job Posting](https://github.com/leephilipx/Fraudulent-Job-Postings) (Data Science Problem)
 - [Scarlet Mansion](https://github.com/leephilipx/scarletmansion) (3D Detective Unity Game)
-- [Happy Pals][https://github.com/leephilipx/Happy-Pals] (Mental Health PHP Web Application)
+- [Happy Pals](https://github.com/leephilipx/Happy-Pals) (Mental Health PHP Web Application)
 
 
 <!--
