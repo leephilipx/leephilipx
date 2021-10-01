@@ -12,6 +12,10 @@ Some of my past projects:
 - [Scarlet Mansion](https://github.com/leephilipx/scarletmansion) (3D Detective Unity Game)
 - [Happy Pals](https://github.com/leephilipx/Happy-Pals) (Mental Health PHP Web Application)
 
+<br>
+
+Special interest:
+- [Workshops](https://github.com/leephilipx/workshops) (Workshop Instructor)
 
 <!--
 **leephilipx/leephilipx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
