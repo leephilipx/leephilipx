@@ -2,7 +2,7 @@
 
 <br>
 
-🔭 I’m currently working on **Smart Touchless Control with Millimeter-Wave Radar Sensor & Artificial Intelligence**
+🔭 I’m currently working on **[Smart Touchless Control with Millimeter-Wave Radar Sensor & Artificial Intelligence](https://github.com/leephilipx/smart-touchless-control-radar)**
 
 <br>
 
