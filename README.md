@@ -36,8 +36,6 @@
 - [Try-it-on](https://github.com/leephilipx/AR-Filter-Shopee) (AR Facial Accessory Attachment Filter)
 - [Fradulent Job Postings](https://github.com/leephilipx/Fraudulent-Job-Postings) (Data Science Pipeline: NLP Sentiment Analysis)
 
-<br>
-
 ### Others
 - [Workshops](https://github.com/leephilipx/workshops) (Workshop Instructor)
 - [NTU EEE PYP](https://github.com/leephilipx/ntueeeclub.github.io) (Site Preview: [https://ntueeeclub.github.io/](https://ntueeeclub.github.io/))
