@@ -39,7 +39,7 @@
 ### Others
 - [Workshops](https://github.com/leephilipx/workshops) (Workshop Instructor)
 - [NTU EEE PYP](https://github.com/leephilipx/ntueeeclub.github.io) (Site Preview: [https://ntueeeclub.github.io/](https://ntueeeclub.github.io/))
-- [Scarlet Mansion](https://github.com/leephilipx/scarletmansion) (3D Detective Unity Game)
+- [Scarlet Mansion](https://github.com/leephilipx/scarlet-mansion) (3D Detective Unity Game)
 - [Happy Pals](https://github.com/leephilipx/Happy-Pals) (Mental Health PHP Web Application)
 
 
