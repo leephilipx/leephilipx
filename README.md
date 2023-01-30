@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/philip-lee-hann-yung-ab4503193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50%"/></a>
 
-🔭 I am actively seeking full-time opportunities in the fields of **AI Engineering, Machine Learning, Data Science, and Data Engineering** based in Singapore. My availability to start is July 2023 and I am eager to contribute my skills and expertise to a new role.  
+🔭 I am actively seeking full-time opportunities in the fields of **AI Engineering, Machine Learning, Data Science, and Data Engineering** based in Singapore. My availability to start is *July 2023* and I am eager to contribute my skills and expertise to a new role.  
 🎓 Final-year **Bachelor of Engineering (Electrical and Electronic Engineering)** at *Nanyang Technological University, Singapore*.
 
 <br>
@@ -32,7 +32,7 @@
 <br>
 
 ### Featured Projects
-- [License Plate Extraction](https://github.com/leephilipx/License-Plate-Extraction) (Carro x AWS Hackathon 2022: Champion)
+- [License Plate Extraction](https://github.com/leephilipx/license-plate-extraction) (Carro x AWS Hackathon 2022: Champion)
 - [Smart Touchless Control with Radar Sensor and AI](https://github.com/leephilipx/smart-touchless-control-radar) (ML-based HCI: Real-time Gesture Recognition)
 - [Try-it-on](https://github.com/leephilipx/AR-Filter-Shopee) (AR Facial Accessory Attachment Filter)
 - [Fradulent Job Postings](https://github.com/leephilipx/Fraudulent-Job-Postings) (Data Science Pipeline: NLP Sentiment Analysis)
