@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/philip-lee-hann-yung-ab4503193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50%"/></a>
 
-🔭 I’m currently working with *[Panasonic R&D Center Singapore](https://research.sg.panasonic.com/)* as a **Deep Learning Algorithm Engineering Intern (Machine Vision)**.<br>
+🔭 Looking for job opportunities related to AI Engineering, Machine Learning, Data Science, Data Engineering based in Singapore.  
 🎓 Final-year **Bachelor of Engineering (Electrical and Electronic Engineering)** at *Nanyang Technological University, Singapore*.
 
 <br>
@@ -31,7 +31,15 @@
 
 <br>
 
+💼 I have made **significant** and **meaningful** contributions in the following roles:
+1) Research Assistant (Data Science) in *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)*
+2) Deep Learning Algorithm Engineering Intern (Machine Vision) in *[Panasonic R&D Center Singapore](https://research.sg.panasonic.com/)*
+3) Backend, IoT & Research Assistance Intern in *[Energy Research Institute @ NTU](http://www.a-fahren.com/)*
+
+<br>
+
 ### Featured Projects
+- [License Plate Extraction](https://github.com/leephilipx/License-Plate-Extraction) (Carro x AWS Hackathon 2022: Champion)
 - [Smart Touchless Control with Radar Sensor and AI](https://github.com/leephilipx/smart-touchless-control-radar) (ML-based HCI: Real-time Gesture Recognition)
 - [Try-it-on](https://github.com/leephilipx/AR-Filter-Shopee) (AR Facial Accessory Attachment Filter)
 - [Fradulent Job Postings](https://github.com/leephilipx/Fraudulent-Job-Postings) (Data Science Pipeline: NLP Sentiment Analysis)
