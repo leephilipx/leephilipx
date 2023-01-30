@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/philip-lee-hann-yung-ab4503193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50%"/></a>
 
-🔭 Looking for job opportunities related to AI Engineering, Machine Learning, Data Science, Data Engineering based in Singapore.  
+🔭 I am actively seeking full-time opportunities in the fields of *AI Engineering, Machine Learning, Data Science, and Data Engineering* based in Singapore. My availability to start is July 2023 and I am eager to contribute my skills and expertise to a new role.  
 🎓 Final-year **Bachelor of Engineering (Electrical and Electronic Engineering)** at *Nanyang Technological University, Singapore*.
 
 <br>
@@ -31,13 +31,6 @@
 
 <br>
 
-💼 I have made **significant** and **meaningful** contributions in the following roles:
-1) Research Assistant (Data Science) in *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)*
-2) Deep Learning Algorithm Engineering Intern (Machine Vision) in *[Panasonic R&D Center Singapore](https://research.sg.panasonic.com/)*
-3) Backend, IoT & Research Assistance Intern in *[Energy Research Institute @ NTU](http://www.a-fahren.com/)*
-
-<br>
-
 ### Featured Projects
 - [License Plate Extraction](https://github.com/leephilipx/License-Plate-Extraction) (Carro x AWS Hackathon 2022: Champion)
 - [Smart Touchless Control with Radar Sensor and AI](https://github.com/leephilipx/smart-touchless-control-radar) (ML-based HCI: Real-time Gesture Recognition)
@@ -49,6 +42,17 @@
 - [NTU EEE PYP](https://github.com/leephilipx/ntueeeclub.github.io) (Site Preview: [https://ntueeeclub.github.io/](https://ntueeeclub.github.io/))
 - [Scarlet Mansion](https://github.com/leephilipx/scarlet-mansion) (3D Detective Unity Game)
 - [Happy Pals](https://github.com/leephilipx/Happy-Pals) (Mental Health PHP Web Application)
+
+<br>
+
+### Work Experience / Internship
+💼 I have made **significant** and **meaningful** contributions in the following roles:
+| Title | Organisation | Time Period |
+|---|---|---|
+| Research Assistant (Data Science) | *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)* | May 2022 - Jan 2023 |
+| Deep Learning Algorithm Engineering Intern (Machine Vision) | *[Panasonic R&D Center Singapore](https://research.sg.panasonic.com/)* | Jan 2022 - Jun 2022 |
+| Backend, IoT & Research Assistance Intern | *[Energy Research Institute @ NTU](http://www.a-fahren.com/)* | May 2021 - Oct 2021 |
+| Research Assistant (Web Scraping) | *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)* | May 2021 - Jun 2021 |
 
 
 <!--
