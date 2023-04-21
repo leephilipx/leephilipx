@@ -49,9 +49,9 @@
 💼 I have made **significant** and **meaningful** contributions in the following roles:
 | Title | Organisation | Time Period |
 |---|---|---|
-| Research Assistant (Data Science) | *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)* | May 2022 - Jan 2023 |
+| Data Scientist (Part-Time) | *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)* | May 2022 - Jan 2023 |
 | Deep Learning Algorithm Engineering Intern (Machine Vision) | *[Panasonic R&D Center Singapore](https://research.sg.panasonic.com/)* | Jan 2022 - Jun 2022 |
-| Backend, IoT & Research Assistance Intern | *[Energy Research Institute @ NTU](http://www.a-fahren.com/)* | May 2021 - Oct 2021 |
+| Software Engineer (Backend, IoT) Intern | *[Energy Research Institute @ NTU](http://www.a-fahren.com/)* | May 2021 - Oct 2021 |
 | Research Assistant (Web Scraping) | *[Nanyang Business School](https://www.ntu.edu.sg/research/research-careers/accelerating-creativity-and-excellence-(ace)/2nd-ace-call-awards#2call2)* | May 2021 - Jun 2021 |
 
 
